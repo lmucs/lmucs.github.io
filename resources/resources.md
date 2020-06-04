@@ -5,6 +5,7 @@ Your one-stop shop for all things related to your academic journey! Select from 
 ## Table of Contents
 
 - [I'd like some extra practice programming outside of class, or to sharpen / review my skillset](#practice)
+- [I'm struggling with a class or computing in general and would like to explore the resources available to me](#seeking-help)
 - [I'm worried I don't belong in computer science and am having second thoughts about my academic journey](#belonging).
 
 ### Practice
@@ -20,6 +21,15 @@ The following links have some excellent practice content, some language-specific
 - [Project Euler](https://projecteuler.net/)
 - [Reddit Daily Programmer](https://www.reddit.com/r/dailyprogrammer/wiki/index)
 - [Cracking the Code Interview](http://bjohnson.lmu.build/cmsi402web/week12.html)
+
+### Seeking Help
+
+Want some extra assistance with course topics, assignments, or anything related to computing? Here are some resources to help with that, given in a suggested order:
+
+1. *Self-Empowerment Protocol:* It's important to remember that your time in college is just 4 short years, after which any problems will be yours alone to solve! As such, your future self will thank you now if you "learn to learn" -- start by Googling your problem, reading web resources, and chances are good you'll "unstick yourself" all by yourself! If that doesn't work (if not now, it will soon!), read on:
+1. *Keck Lab and Teaching Assistants:* Stop by the LMU Keck Lab and ask for a teaching assistant to help out! All of our TAs are happy to help and knowledgeable in most questions you might have. See the Keck Lab TA roster near the front entrance (posted on the metal cupboards) to see who's available.
+1. *Ask your instructor via Email or Slack:* We're happy to help give hints to get you unstuck, or provide some more specific resources. Give the above a shot first so that you can practice self-sufficiency!
+1. *Obtain outside tutoring:* Past students have reported success using apps such as Wyzant and Chegg to find tutors to help them through some topics -- great idea if you want more focused, individual assistance.
 
 ### Belonging
 
