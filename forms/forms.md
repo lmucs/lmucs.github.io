@@ -1,0 +1,17 @@
+# Forms and Logistics
+
+Here you'll find a variety of links and resources for modifications to your degree, changes of majors / additions of minors, and a host of others!
+
+For the various forms mentioned below, you may be required to obtain signatures from certain individuals or offices; the current contacts as mentioned in the following table are:
+
+- Dean's Office Contact: [Isabella Rand](mailto:Isabella.Rand@lmu.edu)
+- CS Department Chair: [Ray Toal](mailto:Ray.Toal@lmu.edu)
+
+| Form | Use | Prerequisites | What to Do |
+|------|-----|---------------|------------|
+| [Unit Override](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Registration%20Adjustment%20rr.pdf) | You want to register for more than 18 units in a semester | GPA 3.5 or better, non-probation | Complete the Unit Override section with the desired number of units, then send to the Dean's Office Contact listed above. |
+| [Time Conflict](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Registration%20Adjustment%20rr.pdf) | You need to register for two courses whose time windows overlap | The instructors of the overlapping courses have given their approval to let you enroll in both | Complete the Time Conflict section with the course information, obtain the signatures of each instructor, then send to the Dean's Office Contact listed above. |
+| [Course Audit](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Registration%20Adjustment%20rr.pdf) | You wish to audit a course, which will appear on your transcript, but will not count for a grade or units | It is 2 weeks into the semester, the course is not full, and you have obtained instructor consent | Complete the Course Audit section with the course information, obtain the instructor's signature, then send to the Dean's Office Contact listed above. |
+| [Independent Studies](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Independent%20and%20Tutorial%20Studies%20r.pdf) | You wish to pursue an independent studies course with an instructor. | You have configured the structure of the course with the instructor, obtained their consent to instruct you, and have a course description / name | Complete the given form with the instructor, obtain their signature, send to the CS Department Chair for signature, and finally the Dean's Office Contact. |
+| [Addition of Major / Minor](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Change%20of%20Program%20r.pdf) | You wish to add some other field of study to your degree, which will appear on your diploma upon satisfactory completion of its required classes | You have obtained the permission of the minor / major department that you are joining by first contacting that department's chair, and have met with your Academic Advisor to discuss the addition | Complete the Major / Minor addition sections as relevant, and first obtain the signature of the Department Chair of the Major / Minor *being added*. Then, if required, send to the Dean's Office Contact above. |
+| [Change of Major / Dropping Minor](https://registrar.lmu.edu/media/lmuacademics/officeoftheregistrar/documents/forms/Change%20of%20Program%20r.pdf) | You wish to change majors or drop a previously declared minor from your degree | Same as above | Same as above except you complete the "Drop" section of the form, and if changing majors, must complete both "Add" and "Drop" sections. |
