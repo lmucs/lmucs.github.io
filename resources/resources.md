@@ -21,6 +21,7 @@ The following links have some excellent practice content, some language-specific
 - [Project Euler](https://projecteuler.net/)
 - [Reddit Daily Programmer](https://www.reddit.com/r/dailyprogrammer/wiki/index)
 - [Cracking the Code Interview](http://bjohnson.lmu.build/cmsi402web/week12.html)
+- [Miscellaneous JavaScript/Web and Python Fun](http://bjohnson.lmu.build/cmsi185web/practice.html)
 
 ### Seeking Help
 
